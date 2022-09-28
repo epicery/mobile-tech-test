@@ -98,7 +98,7 @@ Dans cet exemple :
 - son email est leo.blanchard@example.com
 - son téléphone portable est 06-00-59-53-98
 
-#### Explications
+### Features
 
 - L'éditeur n'a pas encore rencontré de designer et vous laisse carte blanche pour l'interface
 
