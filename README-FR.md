@@ -4,13 +4,8 @@
 
 > Notre candidat à la présidentiel a besoin d'un outil lui permettant de connaître un peu mieux ses potentiels futurs électeurs.
 
-L’éditeur vous demande de développer une application mobile Android, iOS ou Flutter comprenant deux interfaces :
+L’éditeur vous demande de développer une application mobile Android, iOS ou Flutter comprenant deux interfaces. L'une doit permettre de voir l'ensemble des citoyens, la deuxième les informations de contact d'un citoyen en particulier. L'éditeur n'a pas encore rencontré de designer et vous laisse donc carte blanche pour l'interface
 
-1. La première permet d’afficher tous les citoyens (nom +  âge + photo).
-2. La seconde montre les informations de contact d'un citoyen (nom + photo + âge + mail + numéro de téléphone).
-
-Sachez que l’éditeur attachera une attention toute particulière à __la qualité des développements__.
-&nbsp;
 
 ### Ressources
 
@@ -100,13 +95,14 @@ Dans cet exemple :
 
 ### Features
 
-- L'éditeur n'a pas encore rencontré de designer et vous laisse carte blanche pour l'interface
-
-- Afin d'affiner ses ciblages, il aimerait pouvoir :
+1. Le premier écran doit d’afficher tous les citoyens (nom +  âge + photo) récupérés du webservice.
+2. Le second doit montrer les informations de contact d'un citoyen (nom + photo + âge + mail + numéro de téléphone).
+3. Afin d'affiner ses ciblages, il aimerait pouvoir :
   - filtrer les citoyens par département (clefs `location>state`)
   - que la liste soit par ordre d'âge en commençant par les plus jeunes
+4. L'éditeur est également ouvert à toute proposition qui vous semblerait pertinente pour ses besoins
 
-- L'éditeur est également ouvert à toute proposition qui vous semblerait pertinente pour ses besoins
+La qualité du code prévalant sur la quantité des features, seules les deux premières sont obligatoires.
 
 
 ### Roadmap/Informations techniques

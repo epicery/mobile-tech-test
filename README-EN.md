@@ -4,13 +4,7 @@
 
 > Our presidential candidate needs a tool to get to know his potential future voters a little better.
 
-The software editor asks you to develop an Android, iOS or Flutter mobile application with two IHM:
-
-1. The first one displays all citizens (name + age + photo).
-2. The second one shows a citizen's contact informations (name + photo + age + mail + phone number).
-
-Be aware that the software editor will pay particular attention to __the quality of the developments__.
-&nbsp;
+The software editor asks you to develop an Android, iOS or Flutter mobile application with two IHM. The first one will display all the citizens, the second one the contact information of a particular citizen. The software editor has not yet met a designer and therefore leaves you free for IHM design.
 
 ### Ressources
 
@@ -100,13 +94,15 @@ In this example :
 
 ### Features
 
-- The software editor has not yet met a designer and let you free for the IHM
-
-- To improve his targeting, he would like to be able :
+1. The first screen must display all citizens (name +  age + picture).
+2. The first screen must display contact informations of one of them (name + picture + age + mail + phone number).
+3. To improve his targeting, he would like to be able :
   - filter citizens by department (keys `location>state`)
   - that the list of citizens be ordered by age starting with the youngest
+4. The software editor is also open to any proposal that seems relevant to his needs.
 
-- The software editor is also open to any proposal that seems relevant to his needs.
+
+The quality of the code prevailing over the quantity of features, only the first two are mandatory.
 
 
 ### Roadmap/Technical informations
