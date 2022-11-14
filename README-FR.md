@@ -2,7 +2,7 @@
 
 ### Expression de besoin fonctionnel
 
-> Notre candidat à la présidentiel a besoin d'un outil lui permettant de connaître un peu mieux ses potentiels futurs électeurs.
+> Notre candidat à la présidentielle a besoin d'un outil lui permettant de connaître un peu mieux ses potentiels futurs électeurs.
 
 L’éditeur vous demande de développer une application mobile Android, iOS ou Flutter comprenant deux interfaces. L'une doit permettre de voir l'ensemble des citoyens, la deuxième les informations de contact d'un citoyen en particulier. L'éditeur n'a pas encore rencontré de designer et vous laisse donc carte blanche pour l'interface
 
